@@ -3,7 +3,7 @@
 Aplikasi sederhana mengirim dan membalas pesan dengan PHP 7 dan jQuery Ajax, user bisa saling mengirim dan membalas pesan dan data tersimpan di MySQL
 
 
-## Tutorial Step by Step Cara Membuat Desain Web dengan Bootstrap
+## Tutorial Step by Step Cara Membuat Aplikasi ini
 Ikuti di [Playlist Seri Video Tutorialnya](https://www.youtube.com/playlist?list=PLFLsT6z_5FznSjSZ2ATpuLomsgwelBGq6) di **YouTube**
 
 1. [Kirim dan Balas Pesan PHP jQuery Part 1](https://www.youtube.com/watch?v=AzMZZRgSRQM&index=1&list=PLFLsT6z_5FznSjSZ2ATpuLomsgwelBGq6)
