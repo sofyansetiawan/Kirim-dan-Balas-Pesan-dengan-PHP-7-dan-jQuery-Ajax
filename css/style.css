@@ -1,0 +1,48 @@
+#loading_daftar, #loading_kirim_pesan, #loading_balas_pesan{
+	color: blue;
+	font-style: italic;
+	visibility:hidden; 
+}
+
+#keterangan{
+	padding: 3px;
+	font-weight: bold;
+}
+
+.sukses{
+	border: 1px solid green;
+	color: green;
+}
+
+.gagal{
+	border: 1px solid red;
+	color: red;
+}
+
+#kirim_pesan, #balas_pesan{
+	display: none;
+	width: 400px;
+	border: 3px solid #999;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+#status_kirim_pesan{
+	display: none;
+}
+.tabel_pesan{
+	background-color: #fafafa;
+}
+.tabel_pesan tr th{
+	background-color: #abcdef;
+	text-align: left;
+}
+.tabel_pesan tr td{
+	border-bottom: 2px solid #fff;
+}
+tr.pesan_belum{
+	background-color: yellow;
+	font-weight: bold;
+}
+.tabel_pesan a{
+	color: #333;
+}
